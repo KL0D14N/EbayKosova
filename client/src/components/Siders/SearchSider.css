@@ -1,0 +1,24 @@
+#sider {
+    background-image: url('https://images.pexels.com/photos/515674/pexels-photo-515674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 113px;
+}
+
+#sider > input {
+    overflow: visible;
+    border-radius: 50px;
+    border: 1px;
+    font-size: 18pt;
+    background-image: url('https://images.pexels.com/photos/515674/pexels-photo-515674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    height: 55px;
+    padding-left: 68px;
+    background-position: left;
+    background-size: 31px;
+    background-position-x: 17px;
+}
